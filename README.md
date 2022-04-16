@@ -1,3 +1,20 @@
+Link for the Final Product : https://crypto-devs-nft-collection-ten.vercel.app/
+
+Requirements
+There should only exist 20 Crypto Dev NFT's and each one of them should be unique.
+User's should be able to mint only 1 NFT with one transaction.
+Whitelisted users, should have a 5 min presale period before the actual sale where they are guaranteed 1 NFT per transaction.
+There should be a website for your NFT Collection.
+Lets start building 🚀
+
+Prerequisites
+You should have completed the Whitelist dApp tutorial
+Theory
+What is a Non-Fungible Token? Fungible means to be the same or interchangeable eg Eth is fungible. With this in mind, NFTs are unique; each one is different. Every single token has unique characteristics and values. They are all distinguishable from one another and are not interchangeable eg Unique Art
+
+What is ERC-721? ERC-721 is an open standard that describes how to build Non-Fungible tokens on EVM (Ethereum Virtual Machine) compatible blockchains; it is a standard interface for Non-Fungible tokens; it has a set of rules which make it easy to work with NFTs. Before moving ahead have a look at all the functions supported by ERC721
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
